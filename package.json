@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "@next/font": "14.2.15",
@@ -41,6 +42,7 @@
     "@types/react-dom": "^18.3.7",
     "jest": "^30.4.2",
     "jest-environment-jsdom": "^30.4.1",
+    "node-mocks-http": "^1.17.2",
     "ts-jest": "^29.4.10",
     "typescript": "^5.5.4"
   }
