@@ -1,5 +1,7 @@
 # Core-Remit: International Remittance Service
 
+# author : LEONEL YIMGA
+
 A technical demonstration of a cross-border remittance flow built with Next.js 13 App Router. The project enforces strict SOLID principles with a highly modular architecture geared towards maintainability and scaling.
 
 ## 🚀 Getting Started
