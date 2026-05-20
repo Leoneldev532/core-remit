@@ -1,0 +1,47 @@
+{
+    "remittance": {
+        "title": "Service de Transfert Transfrontalier",
+        "step1": {
+            "title": "Étape 1 : Obtenir un Devis",
+            "sendAmount": "Montant à Envoyer",
+            "sendCurrency": "Devise d'Envoi",
+            "receiveCurrency": "Devise de Réception",
+            "button": "Obtenir le Devis",
+            "calculating": "Calcul en cours...",
+            "stepper": "Calculer"
+        },
+        "step2": {
+            "title": "Étape 2 : Verrouiller le Taux & Confirmer",
+            "send": "Envoyer",
+            "fee": "Frais",
+            "exchangeRate": "Taux de Change",
+            "receive": "Recevoir",
+            "lockedFor": "Taux verrouillé pour",
+            "confirmButton": "Confirmer le Transfert",
+            "processing": "Traitement en cours...",
+            "stepper": "Révision"
+        },
+        "step3": {
+            "title": "Étape 3 : Succès !",
+            "message": "Votre transfert a été initié avec succès.",
+            "transactionId": "ID de Transaction",
+            "status": "Statut",
+            "statusCompleted": "Terminé",
+            "newTransfer": "Nouveau Transfert",
+            "totalPaid": "Total Payé",
+            "totalReceived": "Total Reçu",
+            "currencyPair": "Paire de Devises",
+            "stepper": "Succès"
+        },
+        "wizard": {
+            "title": "Transfert d'Argent International"
+        },
+        "dashboard": {
+            "title": "Taux de Change en Direct",
+            "currencyPair": "Paire de Devises",
+            "rate": "Taux",
+            "loading": "Chargement des taux...",
+            "error": "Erreur lors de la récupération des taux."
+        }
+    }
+}

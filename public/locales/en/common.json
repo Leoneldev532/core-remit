@@ -1,0 +1,47 @@
+{
+    "remittance": {
+        "title": "Cross-Border Remittance Service",
+        "step1": {
+            "title": "Step 1: Get a Quote",
+            "sendAmount": "Send Amount",
+            "sendCurrency": "Send Currency",
+            "receiveCurrency": "Receive Currency",
+            "button": "Get Quote",
+            "calculating": "Calculating...",
+            "stepper": "Calculate"
+        },
+        "step2": {
+            "title": "Step 2: Lock Rate & Confirm",
+            "send": "Send",
+            "fee": "Fee",
+            "exchangeRate": "Exchange Rate",
+            "receive": "Receive",
+            "lockedFor": "Rate locked for",
+            "confirmButton": "Confirm Transfer",
+            "processing": "Processing...",
+            "stepper": "Review"
+        },
+        "step3": {
+            "title": "Step 3: Success!",
+            "message": "Your transfer has been initiated successfully.",
+            "transactionId": "Transaction ID",
+            "status": "Status",
+            "statusCompleted": "Completed",
+            "newTransfer": "New Transfer",
+            "totalPaid": "Total Paid",
+            "totalReceived": "Total Received",
+            "currencyPair": "Currency Pair",
+            "stepper": "Success"
+        },
+        "wizard": {
+            "title": "International Money Transfer"
+        },
+        "dashboard": {
+            "title": "Live Exchange Rates",
+            "currencyPair": "Currency Pair",
+            "rate": "Rate",
+            "loading": "Loading rates...",
+            "error": "Error fetching rates."
+        }
+    }
+}
